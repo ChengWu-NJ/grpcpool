@@ -1,4 +1,6 @@
 # grpc-go-pool
+> forked from https://github.com/processout/grpc-go-pool
+> just add go module file.
 
 [![GoDoc](https://godoc.org/github.com/processout/grpc-go-pool?status.svg)](https://godoc.org/github.com/processout/grpc-go-pool)
 
